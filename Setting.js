@@ -66,7 +66,7 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZO
 
 //======================[YOUR CHOICE, CHANGE OR LEAVE IT SAME]=====================
 global.sudo  =  process.env.SUDO || "254112851562" ;          // DON'T REMOVE
-global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
+global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉G",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
 global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
 //=================================================================================
@@ -75,7 +75,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6
 module.exports = {
 
   //==============================[COMPULSORY]=====================================
-  sessionName: process.env.SESSION_ID || '15_07_2024_SIGMA_MD_FXCzm0EN_MAHER_ZUBAIR',// PUT YOUR SESSION ID
+  sessionName: process.env.SESSION_ID || '15_07_2024_SIGMA_MD_mh85VRXk_MAHER_ZUBAIR',    // PUT YOUR SESSION ID
   botname: process.env.BOT_NAME       || 'Doreen Tosh bot',         // ADD YOUR BOT NAME
   ownername:  process.env.OWNER_NAME  || `Greg Tosh`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
