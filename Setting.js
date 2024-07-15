@@ -75,7 +75,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6
 module.exports = {
 
   //==============================[COMPULSORY]=====================================
-  sessionName: process.env.SESSION_ID || '',15_07_2024_SIGMA_MD_N3UCNsPJ_MAHER_ZUBAIR ''// PUT YOUR SESSION ID
+  sessionName: process.env.SESSION_ID || '',15_07_2024_SIGMA_MD_3XBhDUps_MAHER_ZUBAIR// PUT YOUR SESSION ID
   botname: process.env.BOT_NAME       || 'Doreen Tosh bot',         // ADD YOUR BOT NAME
   ownername:  process.env.OWNER_NAME  || `Greg Tosh`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
